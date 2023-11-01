@@ -2,7 +2,7 @@
 - 👀 I’m interested in chemsitry, nanoscience and AI
 - 🌱 I’m currently learning to code my first AI algorithm
 - 💞️ I’m looking to collaborate on anything, just ask!
-- 📫 How to reach me linkedin.com/in/aaro-leppänen-85788b1a4
+- 📫 How to reach me: linkedin
 
 <!---
 Agetso/Agetso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
